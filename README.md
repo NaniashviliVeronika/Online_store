@@ -1,6 +1,7 @@
 # Online_store
 
 [текст курсовой](https://docs.google.com/document/d/113Q1plDBq8wdOCubzNvRRfGeSNGpSyd6oOHiLV3b9pI/edit?usp=sharing)  
+[презентация](https://docs.google.com/presentation/d/1ro3RcKUubC9PZ77Ws7n3bJk2IvCoCl7m/edit#slide=id.p1) 
 
 GitBash  
 ssh cr55389@92.53.118.39  
