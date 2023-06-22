@@ -10,6 +10,4 @@ rz4TwwmjmmMa
 cr55389  
 rz4TwwmjmmMa  
 
-БД  
-
 [figma](https://www.figma.com/file/djqwbTfjXLqYx043cbXr7t/Furniking?type=design&node-id=0-1&mode=design&t=effTuV5LF8TYYl3s-0)  
